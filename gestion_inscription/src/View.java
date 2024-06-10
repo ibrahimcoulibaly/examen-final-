@@ -80,10 +80,6 @@ public class View {
                 }
                 break;
 
-                case 5:
-                
-
-                break;
                 case 6:
                    // Demander les informations sur l'étudiant à l'utilisateur
                     Etudiant etd = new Etudiant();
